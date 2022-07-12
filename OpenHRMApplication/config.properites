@@ -1,0 +1,5 @@
+browser=Chrome
+url=https://opensource-demo.orangehrmlive.com/index.php/auth/login
+DriverLocation=E:\\browserdriver\\chromedriver.exe
+username=Admin
+password=admin123
